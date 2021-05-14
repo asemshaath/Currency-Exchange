@@ -1,0 +1,34 @@
+body{
+
+    background-color: black;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+.my-row{
+    border: 1px solid white;
+}
+
+.my-col{
+
+    border: 1px solid white;
+}
+
+.empty-col{
+
+    color: black;
+}
+
+#numberHolder{
+
+    background-color: lightgrey;
+    color:black;
+    
+}
+
+.form-control::placeholder{
+
+    color: black;
+}
