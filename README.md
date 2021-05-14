@@ -1,5 +1,6 @@
 ![](https://github.com/asemshaath/Currency-Exchange/blob/main/logo.png)
 # Supported Currencies #
+![](https://github.com/asemshaath/Currency-Exchange/images/amChart.png)
 There are 20 currencies that are supported from this web
 # Installment #
 1) Clone this repo
